@@ -3,7 +3,7 @@
 
  ### What I'm doing: 
  
-- 👯 I’m make a Minecraft Server in Thailand
+- 👯 I’m make a Minecraft Server in Thailand Powered by I HAVE CPU 
 - 📫 How to reach me: s.vish555@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
