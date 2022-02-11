@@ -12,8 +12,9 @@
  - C, C++, Java, Kotlin, JavaScript, PHP, Python, VueJs, Flutter, ReactJS
 
 <h3 align="left">Flutter Project:</h3>
-- Gentalay Application ( WIP )
-- ABB Agency in Thailand Backend ( WIP )
+ - Gentalay Application ( WIP )
+ - ABB Agency in Thailand Backend ( WIP )
+
 ### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishsiri&count_private=true)  
