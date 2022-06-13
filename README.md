@@ -20,9 +20,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishsiri&count_private=true)  
  
  
-<br/>  
-
-<div align="left"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tgtnpysp7f5w2szsjta9yvayk&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
